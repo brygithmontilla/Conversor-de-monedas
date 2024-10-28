@@ -10,4 +10,3 @@ El Conversor de Monedas es un programa que permite a los usuarios realizar conve
 
 -**Conversión de Divisas:** Convierte especifias monedas de forma precisa y en tiempo real.
 
--**Historial de Conversiones:** Almacena cada conversión realizada con su fecha y hora, permitiéndote acceder a un registro de tus transacciones anteriores.
