@@ -23,7 +23,7 @@ El **Conversor de Monedas** es una aplicación diseñada para realizar conversio
 3. Compila y ejecuta el archivo principal.
 4. Sigue las instrucciones en pantalla para realizar conversiones.
 
-##**Vista Previa**
+## **Vista Previa**
 Haz clic en la imagen para ver una demostración en video del funcionamiento de la aplicación.
 
 ## **Contacto**
